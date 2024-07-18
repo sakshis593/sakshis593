@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sakshis593
+- 👋 Hi, I’m candidate id-CC196
 - 👀 I’m interested in web development & machine learning
-- 🌱 I’m currently pursuing B.Tech in CSE
-- 📫 How to reach me- suwarnasakshi593@gmail.com
+- 🌱 I’m an undergraduate student
 
 <!---
 sakshis593/sakshis593 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
