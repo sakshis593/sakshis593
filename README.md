@@ -1,4 +1,4 @@
-- 👋 Hi, I’m candidate code-CC196
+- 👋 Hi, I’m Sakshi Suwarna!
 - 👀 I’m interested in web development & machine learning
 - 🌱 I’m an undergraduate student
 
